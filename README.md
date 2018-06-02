@@ -6,10 +6,11 @@ Requires an OpenCL 1.2 compatible GPU.
 
 ## Build
 Any of
-+ <code>make debug</code>
-+ <code>make release</code>
++ <code>$ make debug</code>
++ <code>$ make release</code>
 
 ## Run
 + Supports CPU and GPU computations.
 + Supports different sizes.
-<code>./build/OpenCLDemo device=[device] size=[size]</code>
+<br>
+<code>$ ./build/OpenCLDemo device=[device] size=[size]</code>
